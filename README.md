@@ -22,6 +22,6 @@ sudo chmod +x deploy.sh
 ## Sur windows (en admin)
 notepad C:\Windows\System32\drivers\etc\hosts
 
-puis ajouter :
-192.X.X.X dolibarr.4iwj.lab
+puis ajouter : \n
+192.X.X.X dolibarr.4iwj.lab \n
 192.X.X.X glpi.4iwj.lab
