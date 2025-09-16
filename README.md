@@ -8,7 +8,7 @@ cd && cd /opt/deployment
 ```
 
 ```bash
-https://github.com/LucasRatiaray/adm-sec-srv-web-partiel.git
+git clone https://github.com/LucasRatiaray/adm-sec-srv-web-partiel.git .
 ```
 
 ```bash
